@@ -8,7 +8,7 @@ install.packages("roxygen2")
 
 
 library(devtools);
-load_all("."); # Working directory should be in the package SCC_R_package
+load_all("."); # Working directory should be in the package TempConverter_package
 
 
 library(roxygen2); # Read in the roxygen2 R package

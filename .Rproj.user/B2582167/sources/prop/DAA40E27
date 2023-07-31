@@ -1,6 +1,7 @@
 {
     "source_window_id": "",
     "Source": "Source",
-    "cursorPosition": "6,28",
-    "scrollLine": "0"
+    "cursorPosition": "14,42",
+    "scrollLine": "3",
+    "ignored_words": "TempConverter\n"
 }
