@@ -22,9 +22,15 @@ library(devtools)
 
 install_github("donwany/TempConversion")
 
-library("csvreaderv2"")
-
-F_to_C(32)
-
+library("TempConversion"")
 
 ```
+### Example
+```r
+F_to_C(90)
+C_to_F(32)
+```
+
+
+
+
